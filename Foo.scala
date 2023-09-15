@@ -1,3 +1,3 @@
 object Foo {
-	def bar(): String = ???
+	def bar(): Int = ???
 }
